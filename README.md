@@ -3,7 +3,7 @@
 Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse.
 
 <p align="center">
-  <img src="safemessage.jpg" alt="SafeMessage" width="100">
+  <img src="safemessage.jpg" alt="SafeMessage" width="400">
 </p>
 
 ## Fonctionnalités
