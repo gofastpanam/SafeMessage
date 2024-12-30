@@ -2,9 +2,9 @@
 
 Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse.
 
-<div align="center">
-  <img src="safmessage.jpg" alt="safemessage" width="100">
-</div>
+<p align="center">
+  <img src="safemessage.jpg" alt="SafeMessage" width="100">
+</p>
 
 ## Fonctionnalités
 
