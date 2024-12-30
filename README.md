@@ -2,6 +2,10 @@
 
 Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse.
 
+<div align="center">
+  <img src="safmessage.jpg" alt="safemessage" width="100">
+</div>
+
 ## Fonctionnalités
 
 - Chiffrement et déchiffrement de texte avec le chiffrement de César
@@ -20,7 +24,7 @@ Une application en C qui implémente le chiffrement de César avec des fonctionn
 
 1. Clonez le dépôt :
 ```bash
-git clone [votre-url-de-repo]
+git clone https://github.com/gofastpanam/SafeMessage
 cd SafeMessage
 ```
 
