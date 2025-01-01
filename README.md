@@ -3,8 +3,8 @@
 <div>
   <img src="safemessage.jpg" alt="safemessage" width="600">
 </div>
-
-Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse.
+ 
+SafeMessage est Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse. Développée avec une attention particulière à la sécurité et aux performances.
 
 ## Fonctionnalités
 
