@@ -1,10 +1,10 @@
-# SafeMessage - Chiffrement César
+# SafeMessage - Encrypt. Decrypt. Secure.
+
+<div>
+  <img src="safemessage.jpg" alt="safemessage" width="600">
+</div>
 
 Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse.
-
-<p align="center">
-  <img src="safemessage.jpg" alt="SafeMessage" width="400">
-</p>
 
 ## Fonctionnalités
 
