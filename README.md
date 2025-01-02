@@ -1,10 +1,16 @@
-# SafeMessage - Encrypt. Decrypt. Secure.
+# SafeMessage - Crack Caesar's code. Unlock the secrets of the empire.
 
 <div>
   <img src="safemessage.jpg" alt="safemessage" width="600">
 </div>
- 
-SafeMessage est Une application en C qui implémente le chiffrement de César avec des fonctionnalités avancées d'analyse et de cryptanalyse. Développée avec une attention particulière à la sécurité et aux performances.
+
+## Description
+
+Une application en C qui implémente le chiffrement de César, une méthode de cryptage historique utilisée par Jules César pour ses communications militaires secrètes.
+
+## Histoire et Contexte
+
+Le chiffrement de César tire son nom de Jules César (100-44 av. J.-C.), qui l'utilisait pour protéger ses messages militaires confidentiels pendant ses campagnes. Selon l'historien Suétone, César utilisait un décalage de 3 positions dans l'alphabet : chaque lettre était remplacée par celle située trois positions plus loin. Cette méthode, bien que simple, était efficace à une époque où l'alphabétisation était rare et la cryptographie peu connue.
 
 ## Fonctionnalités
 
@@ -73,6 +79,7 @@ Le menu principal propose les options suivantes :
 
 - `SafeMessage.c` : Code source principal
 - `Makefile` : Script de compilation
+- `.gitignore` : Configuration Git
 - `README.md` : Documentation
 
 ## Sécurité
